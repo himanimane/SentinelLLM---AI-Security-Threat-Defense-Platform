@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/SentinelLLM---AI-Security-Threat-Defense-Platform/',`
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
