@@ -1,0 +1,6 @@
+{
+  "name": "SentinelLLM - AI Security & Threat Defense Platform",
+  "description": "Next-Gen AI Security Operations Center (SOC) with real-time multi-layer threat inspection, SVM injection classification, PII redaction, jailbreak heuristics, multi-modal scanning, and natural language audit log investigation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
